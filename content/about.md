@@ -6,6 +6,6 @@ title = "About"
 
 ## Kartik Singhal
 
-I am a Master's student at [Brown CS](https://cs.brown.edu), specializing in Systems and Programming Languages.
+I am a Master's student at [Brown CS](http://cs.brown.edu), specializing in Systems and Programming Languages.
 
 I love building software that helps people.

@@ -1,3 +1,4 @@
 baseurl = "http://cs.brown.edu/~ksinghal/"
 languageCode = "en-us"
 title = "Kartik Singhal"
+theme = "base16"
