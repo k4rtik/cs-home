@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Kartik Singhal"
 theme = "base16"
 
+canonifyURLs = "true"
+
 [params]
   author = "Kartik Singhal"
   description = "Homepage of Kartik Singhal on Brown CS Web"
