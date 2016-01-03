@@ -2,3 +2,8 @@ baseurl = "http://cs.brown.edu/~ksinghal/"
 languageCode = "en-us"
 title = "Kartik Singhal"
 theme = "base16"
+
+[params]
+  author = "Kartik Singhal"
+  description = "Homepage of Kartik Singhal on Brown CS Web"
+  copyright = "Copyright © 2016 Kartik Singhal."
