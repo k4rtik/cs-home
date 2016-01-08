@@ -17,10 +17,9 @@
 
 <header>
   <div class="container">
-    <a class="path" href="{{ .Site.BaseURL }}">{{ .Site.Title }}$</a>
-    <span class="caret">ls -a</span>
+    <a class="path" href="{{ .Site.BaseURL }}">kartik</a>@<a class="path" href="http://cs.brown.edu">BrownCS</a> ~ $
+    <span class="caret">ls</span>
     <div class="menu">
-      <a class="path menu-items" href="http://cs.brown.edu">..</a>
       {{ range .Site.Menus.main }}
           <a class="path menu-items" href="{{.URL}}">{{ .Name }}</a>
       {{end}}
