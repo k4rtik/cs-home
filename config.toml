@@ -9,3 +9,15 @@ canonifyURLs = "true"
   author = "Kartik Singhal"
   description = "Homepage of Kartik Singhal on Brown CS Web"
   copyright = "Copyright © 2016 Kartik Singhal."
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[[menu.main]]
+    name = "DevLog"
+    url = "/post"
+#
+# [[menu.main]]
+#     name = "Projects"
+#     url = "/project"
