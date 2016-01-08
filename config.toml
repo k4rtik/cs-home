@@ -1,6 +1,6 @@
 baseurl = "http://cs.brown.edu/~ksinghal/"
 languageCode = "en-us"
-title = "Kartik Singhal"
+title = "kartik@BrownCS:~"
 theme = "base16"
 
 canonifyURLs = "true"
