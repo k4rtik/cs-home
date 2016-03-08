@@ -21,3 +21,13 @@ As it turns out, I am going to TA CS32 in the next semester, which is a Java cla
 {{< figure src="/img/coursera-java.png" title="A marathon of concurrent Java courses (and they are good!)" >}}
 
 (more later...)
+
+---
+
+**EDIT** (Jan 4 but updated here on Mar 8):
+
+Shriram pointed out that Brown is NOT a "Java school" per se and that both intro sequences (15/16 and 17-19/18) contribute 50:50 to the number of students who go on to major in CS.
+
+My take is that indeed it is not a JavaSchool as [Joel Spolsky would describe the term](http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html) but most Brown students are expected to know Java, whether they come from 15/16, 18 or transition from 19 to 32. Even couple of systems-like courses (DBMS 127; Multiprocessor Sync 176 that I took) depend on Java.
+
+To be fair, there is a great variety of options here. I was just astonished to see the amount of detail 33 covers for an intro systems course (I attended latter half of the semester). Then, of course, there are 17, 19, and C++ heavy 123. This semester, I am enrolled in 167/9 (OS) which is the extreme to which I would imagine a systems course could go to (we just implemented user level threads packages for both uniprocessor and multiprocessor systems, more about this in a later post).

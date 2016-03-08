@@ -21,3 +21,6 @@ canonifyURLs = "true"
 # [[menu.main]]
 #     name = "Projects"
 #     url = "/project"
+
+[blackfriday]
+    fractions = false
